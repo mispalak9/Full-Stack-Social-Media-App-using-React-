@@ -45,6 +45,7 @@ A Full Stack Social Media App using React offers a seamless platform for users t
 - **Node.js**
 - **React**
 - **Express**
+- **Vite**
 
 ## **Features Created**
 - **Routing**
