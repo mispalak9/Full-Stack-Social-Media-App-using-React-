@@ -33,3 +33,44 @@ export default {
 # Full-Stack-Social-Media-App-using-React-
 A Full Stack Social Media App using React offers a seamless platform for users to connect and share content. React ensures a responsive frontend, while Node.js and Appwrite provide robust backend support. Features include user authentication, posts, comments, and real-time updates, creating an engaging social media experience.
 >>>>>>> 
+
+
+## **Technologies Used**
+- **JavaScript**
+- **TypeScript**
+- **HTML**
+- **CSS**
+- **Tailwind CSS**
+- **Appwrite**
+- **Node.js**
+- **React**
+- **Express**
+
+## **Features Created**
+- **Routing**
+- **File & Folder Structure**
+- **Auth Pages**
+- **Auth Functionality - Appwrite**
+- **Storage & Database Design**
+- **TanStack Query**
+- **Home Page**
+- **Create Post**
+- **Post Card**
+- **Post CRUD**
+- **Post Details**
+- **Explore Page**
+- **Search Results**
+- **Active Lesson**
+- **Deployment**
+
+## **Installation and Setup Instructions**
+
+1. **Clone the Repository**
+   ```
+   git clone https://github.com/yourusername/your-repo-name.git
+   cd your-repo-name  ```
+
+2. **Install Dependencies Set Up Environment Variables**
+ ``` npm install && npm run dev  ```
+
+
