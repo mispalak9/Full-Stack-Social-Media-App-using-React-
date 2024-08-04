@@ -68,7 +68,7 @@ A Full Stack Social Media App using React offers a seamless platform for users t
 1. **Clone the Repository**
    ```
    git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name  ```
+   cd your-repo-name 
 
 2. **Install Dependencies Set Up Environment Variables**
  ``` npm install && npm run dev  ```
