@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -32,4 +32,4 @@ export default {
 =======
 # Full-Stack-Social-Media-App-using-React-
 A Full Stack Social Media App using React offers a seamless platform for users to connect and share content. React ensures a responsive frontend, while Node.js and Appwrite provide robust backend support. Features include user authentication, posts, comments, and real-time updates, creating an engaging social media experience.
->>>>>>> 607bc1de9f415526b6cf76cc063644b0ab095934
+>>>>>>> 
