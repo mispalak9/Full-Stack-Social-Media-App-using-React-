@@ -1,5 +1,7 @@
 **Full-Stack Social Media App using React, Node.js, and Appwrite**
 
+![image alt](https://github.com/mispalak9/Full-Stack-Social-Media-App-using-React-/blob/17ae3957040aafa996cd1e7d9d1c9532c8455f39/Screenshot%202024-08-08%20105836.jpg)
+
 ## Table of Contents
 - Introduction
 - Technologies Used
