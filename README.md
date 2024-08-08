@@ -1,77 +1,86 @@
+**Full-Stack Social Media App using React, Node.js, and Appwrite**
 
-# React + TypeScript + Vite
+## Table of Contents
+- Introduction
+- Technologies Used
+- Features
+- Installation and Setup Instructions
+- Usage
+- Contributing
+- License
+- Contact
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Introduction
+This project is a Full-Stack Social Media App designed to provide a seamless platform for users to connect and share content. The frontend is built with React and TypeScript for a responsive and dynamic user experience, while the backend is supported by Node.js and Appwrite, ensuring robust and scalable functionality. Key features include user authentication, posts, comments, and real-time updates.
 
-Currently, two official plugins are available:
+## Technologies Used
+- JavaScript
+- TypeScript
+- HTML
+- CSS
+- Tailwind CSS
+- Appwrite
+- Node.js
+- React
+- Express
+- Vite
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- User Authentication (Appwrite)
+- Post Creation, Read, Update, and Delete (CRUD)
+- Commenting System
+- Real-Time Updates
+- Responsive Design
+- Search and Explore Functionality
+- User Profile Management
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
-=======
-# Full-Stack-Social-Media-App-using-React-
-A Full Stack Social Media App using React offers a seamless platform for users to connect and share content. React ensures a responsive frontend, while Node.js and Appwrite provide robust backend support. Features include user authentication, posts, comments, and real-time updates, creating an engaging social media experience.
->>>>>>> 
-
-
-## **Technologies Used**
-- **JavaScript**
-- **TypeScript**
-- **HTML**
-- **CSS**
-- **Tailwind CSS**
-- **Appwrite**
-- **Node.js**
-- **React**
-- **Express**
-- **Vite**
-
-## **Features Created**
-- **Routing**
-- **File & Folder Structure**
-- **Auth Pages**
-- **Auth Functionality - Appwrite**
-- **Storage & Database Design**
-- **TanStack Query**
-- **Home Page**
-- **Create Post**
-- **Post Card**
-- **Post CRUD**
-- **Post Details**
-- **Explore Page**
-- **Search Results**
-- **Active Lesson**
-- **Deployment**
-
-## **Installation and Setup Instructions**
+## Installation and Setup Instructions
 
 1. **Clone the Repository**
    ```
    git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name 
+   cd your-repo-name
+   ```
 
-2. **Install Dependencies Set Up Environment Variables**
- ``` npm install && npm run dev  ```
+2. **Install Dependencies**
+   ```
+   npm install
+   ```
+
+3. **Set Up Environment Variables**
+   Create a `.env` file in the root directory and add your environment variables.
+
+4. **Run the Application**
+   ```
+   npm run dev
+   ```
+
+## Usage
+
+1. **Sign Up / Sign In**
+   - Users can create an account or log in using their credentials.
+
+2. **Create a Post**
+   - Navigate to the 'Create Post' page and submit a new post.
+
+3. **Interact with Posts**
+   - Like, comment, and share posts.
+   - Explore posts from other users on the 'Explore' page.
+
+4. **Profile Management**
+   - View and edit your profile information.
+
+## Contributing
+
+We welcome contributions! Please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature/your-feature-name`.
+3. Make your changes and commit them: `git commit -m 'Add some feature'`.
+4. Push to the branch: `git push origin feature/your-feature-name`.
+5. Create a pull request.
 
 
+## Contact
+
+Palak Mishra - [LinkedIn](https://www.linkedin.com/in/palak-raj-mishra-8092466408/) 
