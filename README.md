@@ -83,4 +83,4 @@ We welcome contributions! Please follow these steps:
 
 ## Contact
 
-Palak Mishra - [LinkedIn](https://www.linkedin.com/in/palak-raj-mishra-8092466408/) 
+Palak Mishra - [LinkedIn](https://www.linkedin.com/in/palak-mishra-494a2b1b9) 
